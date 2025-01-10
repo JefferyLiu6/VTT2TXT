@@ -38,7 +38,7 @@ Here is another line.
 
 ```csharp
 This is an example subtitle. Here is another line.
-
+```
+```vbnet
 This will render the "Input" and "Output" sections in the same styled way, including the "Copy code" button when hosted on GitHub or similar platforms. Let me know if you need further adjustments! 😊
-
 ```
