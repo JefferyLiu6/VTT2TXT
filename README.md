@@ -42,10 +42,4 @@ This is an example subtitle. Here is another line.
 
 ---
 
-**Requirements**
-
-Python 3.x
-
----
-
 Enjoy the simplicity! 😊
